@@ -1,3 +1,6 @@
+![GitHub Snake Light](https://raw.githubusercontent.com/kadircnkya/kadircnkya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/kadircnkya/kadircnkya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <div align="center">
   <img 
     src="https://i.pinimg.com/736x/bd/8f/fb/bd8ffb5453a2741e0f8fe562469214bf.jpg" 
