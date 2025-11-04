@@ -1,6 +1,3 @@
-![GitHub Snake Light](https://raw.githubusercontent.com/kadircnkya/kadircnkya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/kadircnkya/kadircnkya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 <div align="center">
   <img 
     src="https://i.pinimg.com/736x/bd/8f/fb/bd8ffb5453a2741e0f8fe562469214bf.jpg" 
@@ -56,3 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadircnkya&show_icons=true&locale=en" alt="kadircnkya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadircnkya&" alt="kadircnkya" /></p>
+
+![snake gif](https://github.com/kadircnkya/kadircnkya/blob/output/github-contribution-grid-snake.gif)
+
+
